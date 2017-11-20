@@ -1,12 +1,36 @@
-# Site settings
-title: I develop tomorrow
+# site settings
+title: Develop tomorrow
+subtitle: Supadupa Life
 email: mcun00@gmail.com
 description: "Principal AD Tech Engineer, Continuous Delivery & Cross Device Expert, Always Thinking of Productivity and Efficiency."
 baseurl: ""
 url: "http://mcun0s.github.com"
-twitter_username: mcunos
-github_username:  mcun0s
+author: Unho Yeo
+street_address: 11, Jangja-daero 111beon-gil
+city: Guri-si
+state: Gyeonggi-do
+zip_code: 11947
+country: Republic of Korea
+phone: +82-10-8904-5335
 
-# Build settings
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url: 
+facebook_url: http://facebook.com/mcunos
+github_url: http://github.com/mcun0s
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/mcunos/
+linkedin_url: https://www.linkedin.com/in/unhoyeo
+pinterest_url:
+slack_url: 
+twitter_url: https://twitter.com/OTL_uno
+
+# build settings
 markdown: kramdown
-permalink: pretty
+
+sass:
+  style: compressed
